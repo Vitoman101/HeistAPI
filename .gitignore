@@ -1,0 +1,23 @@
+# Binaries
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.vs
+
+# IDE-specific files (adjust as needed)
+*.suo
+*.ntvs*
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Rider
+.idea/
+
+# User-specific files
+*.user
+*.suo
